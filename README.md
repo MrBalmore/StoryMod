@@ -36,6 +36,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Live 3D character preview
 - Custom pose editor
 - Integration with Emotes animations (beta)
+  
 ![NPC Editor](assets/screenshots/2026-08-02_12.47.38.png)
 
 ### Quest Editor
@@ -54,6 +55,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Positive and negative dialogue paths
 - Start nodes and connected dialogue sequences
 - Reward nodes
+
+![Editor](assets/screenshots/2026-08-02_12.49.25.png)
 
 ### Pose Editor
 
