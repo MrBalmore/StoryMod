@@ -75,11 +75,14 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Custom upper and lower TAB text
 - Server-side configuration
 
+![Editor](assets/screenshots/image.png)
+
 ---
 
 ## Screenshots
 
-Screenshots of the main tools and editors will be added here.
+![Editor](assets/screenshots/2026-08-02_12.47.27.png)
+![Editor](assets/screenshots/2026-08-02_12.50.23.png)
 
 ---
 
