@@ -38,6 +38,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Custom pose editor
 - Integration with Emotes animations (beta)
 
+---
+
 <details>
 <summary>📷 Screaanshots</summary>
   
@@ -45,6 +47,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ![NPC Editor](assets/screenshots/skin.png)
 
 </details>
+
+---
 
 ### Quest Editor
 
@@ -54,12 +58,16 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Objectives, requirements and rewards
 - Repeatable and one-time quests
 
+---
+
 <details>
 <summary>📷 Screaanshots</summary>
   
 ![NPC Editor](assets/screenshots/quest.png)
 
 </details>
+
+---
 
 ### Dialogue Graph Editor
 
@@ -70,6 +78,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Start nodes and connected dialogue sequences
 - Reward nodes
 
+---
+
 <details>
 <summary>📷 Screaanshots</summary>
 
@@ -77,6 +87,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ![Editor](assets/screenshots/2026-08-02_12.50.23.png)
 
 </details>
+
+---
 
 ### Pose Editor
 
@@ -86,6 +98,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Live character preview
 - Saved poses for persistent NPCs
 
+---
+
 <details>
 <summary>📷 Screaanshots</summary>
 
@@ -93,6 +107,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ![NPC Editor](assets/screenshots/pose2.png)
 
 </details>
+
+---
 
 ### Title System and Player List
 
@@ -102,6 +118,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Assign and remove titles through the interface
 - Custom upper and lower TAB text
 - Server-side configuration
+
+---
 
 <details>
 <summary>📷 Screaanshots</summary>
