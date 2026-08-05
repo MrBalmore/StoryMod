@@ -134,9 +134,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 
 ---
 
-### Other Screenshots
-
----
+## Other Screenshots
 
 <details>
 <summary>📷 Screaanshots</summary>
@@ -146,8 +144,6 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ![Editor](assets/screenshots/support2.png)
 
 </details>
-
----
 
 ## Project Information
 
