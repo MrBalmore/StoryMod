@@ -54,6 +54,13 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Objectives, requirements and rewards
 - Repeatable and one-time quests
 
+<details>
+<summary>📷 Screaanshots</summary>
+  
+![NPC Editor](assets/screenshots/quest.png)
+
+</details>
+
 ### Dialogue Graph Editor
 
 - Node-based dialogue creation
@@ -96,13 +103,29 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Custom upper and lower TAB text
 - Server-side configuration
 
+<details>
+<summary>📷 Screaanshots</summary>
+
 ![Editor](assets/screenshots/image.png)
+![Editor](assets/screenshots/tab.png)
+![Editor](assets/screenshots/title1.png)
+![Editor](assets/screenshots/title2.png)
+![Editor](assets/screenshots/title.color.png)
+
+</details>
 
 ---
 
-## Screenshots
+## Other Screenshots
+
+<details>
+<summary>📷 Screaanshots</summary>
 
 ![Editor](assets/screenshots/2026-08-02_12.47.27.png)
+![Editor](assets/screenshots/support1.png)
+![Editor](assets/screenshots/support2.png)
+
+</details>
 
 ---
 
