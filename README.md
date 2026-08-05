@@ -23,9 +23,6 @@ The project is designed for game designers and server creators who want to build
 StoryMod is currently presented as a portfolio project. Source code and compiled files are not publicly available.
 
 If you are interested in the mod and would like to purchase it: mrbalmore228@gmail.com
-
-<details>
-<summary>📷 Скриншоты</summary>
   
 ![StoryMod](assets/screenshots/2026-08-02_12.45.54.png)
 
