@@ -136,6 +136,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 
 ## Other Screenshots
 
+---
+
 <details>
 <summary>📷 Screaanshots</summary>
 
