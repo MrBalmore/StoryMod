@@ -41,7 +41,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ---
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
   
 ![NPC Editor](assets/screenshots/2026-08-02_12.47.38.png)
 ![NPC Editor](assets/screenshots/skin.png)
@@ -61,7 +61,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ---
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
   
 ![NPC Editor](assets/screenshots/quest.png)
 
@@ -81,7 +81,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ---
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
 
 ![Editor](assets/screenshots/2026-08-02_12.49.25.png)
 ![Editor](assets/screenshots/2026-08-02_12.50.23.png)
@@ -101,7 +101,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ---
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
 
 ![NPC Editor](assets/screenshots/pose1.png)
 ![NPC Editor](assets/screenshots/pose2.png)
@@ -122,7 +122,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ---
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
 
 ![Editor](assets/screenshots/image.png)
 ![Editor](assets/screenshots/tab.png)
@@ -137,7 +137,7 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ## Other Screenshots
 
 <details>
-<summary>📷 Screaanshots</summary>
+<summary>📷 Screenshots</summary>
 
 ![Editor](assets/screenshots/2026-08-02_12.47.27.png)
 ![Editor](assets/screenshots/support1.png)
