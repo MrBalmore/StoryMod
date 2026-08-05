@@ -43,8 +43,8 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
   
 ![NPC Editor](assets/screenshots/2026-08-02_12.47.38.png)
 ![NPC Editor](assets/screenshots/skin.png)
-![NPC Editor](assets/screenshots/pose 1.png)
-![NPC Editor](assets/screenshots/pose 2.png)
+![NPC Editor](assets/screenshots/pose1.png)
+![NPC Editor](assets/screenshots/pose2.png)
 
 </details>
 
