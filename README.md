@@ -39,12 +39,10 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Integration with Emotes animations (beta)
 
 <details>
-<summary>📷 Скриншоты</summary>
+<summary>📷 Screaanshots</summary>
   
 ![NPC Editor](assets/screenshots/2026-08-02_12.47.38.png)
 ![NPC Editor](assets/screenshots/skin.png)
-![NPC Editor](assets/screenshots/pose1.png)
-![NPC Editor](assets/screenshots/pose2.png)
 
 </details>
 
@@ -65,7 +63,13 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Start nodes and connected dialogue sequences
 - Reward nodes
 
+<details>
+<summary>📷 Screaanshots</summary>
+
 ![Editor](assets/screenshots/2026-08-02_12.49.25.png)
+![Editor](assets/screenshots/2026-08-02_12.50.23.png)
+
+</details>
 
 ### Pose Editor
 
@@ -74,6 +78,14 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 - Height adjustment
 - Live character preview
 - Saved poses for persistent NPCs
+
+<details>
+<summary>📷 Screaanshots</summary>
+
+![NPC Editor](assets/screenshots/pose1.png)
+![NPC Editor](assets/screenshots/pose2.png)
+
+</details>
 
 ### Title System and Player List
 
@@ -91,7 +103,6 @@ If you are interested in the mod and would like to purchase it: mrbalmore228@gma
 ## Screenshots
 
 ![Editor](assets/screenshots/2026-08-02_12.47.27.png)
-![Editor](assets/screenshots/2026-08-02_12.50.23.png)
 
 ---
 
